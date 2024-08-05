@@ -36,7 +36,11 @@ restaurante en el lanzamiento de su nuevo menú. Para ello, crea tus propias con
 utiliza los resultados obtenidos para llegar a estas conclusiones.
 
 1.- El platillo preferido por los conmensales son las hamburger.
+
 2.- El platrillo con menor numero de ventas son los chicken tacos.
+
 3.- La categoría de platos menos vendida es la americana, esto apesar de que el platillo más consumido pertenece a esta.
+
 4.- La categoría prefererida es comida asian.
+
 5.- El top 3 de platilos son las hamburguer, edamame y el korean beef bowl, en el order mencionado.
