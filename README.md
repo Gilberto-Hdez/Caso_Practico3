@@ -34,6 +34,7 @@ preguntas planteadas, realiza un análisis adicional utilizando este join entre 
 objetivo es identificar 5 puntos clave que puedan ser de utilidad para los dueños del
 restaurante en el lanzamiento de su nuevo menú. Para ello, crea tus propias consultas y
 utiliza los resultados obtenidos para llegar a estas conclusiones.
+
 1.- El platillo preferido por los conmensales son las hamburger.
 2.- El platrillo con menor numero de ventas son los chicken tacos.
 3.- La categoría de platos menos vendida es la americana, esto apesar de que el platillo más consumido pertenece a esta.
